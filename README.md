@@ -9,3 +9,7 @@ Course 1: [Getting Started with Tensorflow 2.0](https://github.com/DiegoCorona/T
 
 Course 2: [Customising your models with Tensorflow 2.0](https://github.com/DiegoCorona/TensorFlow2-for-Deep-Learning/tree/main/Course_2%20Customising%20your%20models%20with%20TensorFlow%202.0)
 - Extra for week 2: [Keras_TimeseriesGenerator](https://github.com/DiegoCorona/TensorFlow2-for-Deep-Learning/blob/main/Week2_Keras_TimeseriesGenerator.ipynb)  
+
+Course 3: [Probabilistic Deep Learning with Tensorflow 2.0]()
+
+- [How Neural Networks learn? Maximum Likelihood and Cost Functions](https://github.com/DiegoCorona/TensorFlow2-for-Deep-Learning/blob/main/Week2_Maximum_likelihood_estimation.pdf)
