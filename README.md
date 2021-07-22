@@ -13,3 +13,4 @@ Course 2: [Customising your models with Tensorflow 2.0](https://github.com/Diego
 Course 3: [Probabilistic Deep Learning with Tensorflow 2.0]()
 
 - Extra for week 2: [How Neural Networks Learn? Maximum Likelihood and Cost Functions](https://github.com/DiegoCorona/TensorFlow2-for-Deep-Learning/blob/main/Week2_Maximum_likelihood_estimation.pdf)
+- Extra for week 2: [Bayes by Backprop](https://github.com/DiegoCorona/TensorFlow2-for-Deep-Learning/blob/main/Week2_Bayes_by_backprop.pdf)
